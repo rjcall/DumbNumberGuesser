@@ -46,7 +46,7 @@ func run() {
 				break
 		}
 	}
-	fmt.Printf("Your Number %d Was Easy As SHIT ... Fuck You!!!", GUESS)
+	fmt.Printf("Your Number %d Was Easy!!!\nMake it Harder Next Time.", GUESS)
 }
 
 // main function
